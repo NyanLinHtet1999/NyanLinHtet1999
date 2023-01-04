@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nyan Lin Htet</h1>
-<h3 align="center">I am a web developer who has strong enthusiasm in server side(backend) with Php(Laravel).</h3>
+<h3 align="center">I am a web developer who has strong enthusiasm for server side(backend) with Php(Laravel).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyanlinhtet1999&label=Profile%20views&color=0e75b6&style=flat" alt="nyanlinhtet1999" /> </p>
 

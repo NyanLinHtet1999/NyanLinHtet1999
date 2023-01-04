@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" align="right"/>
 
-- 🌱 I’m currently learning **PHP and Javascript to professional level.**
+- 🌱 I’m currently learning **PHP and Javascript to the professional level.**
 
 - 💬 Ask me about **Laravel**
 

@@ -6,7 +6,7 @@
 
 <img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" align="right"/>
 
-- 🌱 I’m currently learning **PHP and Javascript till I get proficient.**
+- 🌱 I’m currently learning **PHP and Javascript.**
 
 - 💬 Ask me about **Laravel**
 
